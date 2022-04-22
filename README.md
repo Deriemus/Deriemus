@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Deriemus
+- 👀 I’m interested in writing code to control a refridgerated cold room for growing mushrooms, sensors are humidity/ temperature, oxygen or co2 level, date & time to
+- purge the atmosphere to control co2 levels
